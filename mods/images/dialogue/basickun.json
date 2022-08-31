@@ -1,0 +1,77 @@
+{
+	"position": [
+		200,
+		130
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 2.3,
+	"image": "bk_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-3
+			],
+			"loop_offsets": [
+				1,
+				-2
+			],
+			"anim": "talk",
+			"idle_name": "bk_dialogue talk",
+			"loop_name": "bk_dialogue talk-LOOP"
+		},
+		{
+			"idle_offsets": [
+				4,
+				-7
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				5,
+				-7
+			],
+			"idle_name": "bk_dialogue exsited",
+			"loop_name": "bk_dialogue exsite-LOOP"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bk_dialogue anger",
+			"loop_name": "bk_dialogue conf-LOOP"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-7
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-8,
+				-4
+			],
+			"idle_name": "bk_dialogue shock",
+			"loop_name": "bk_dialogue shock-LOOP"
+		},
+		{
+			"loop_offsets": [
+				-5,
+				-10
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"loop_name": "bk_dialogue conf-LOOP",
+			"idle_name": "bk_dialogue conf"
+		}
+	]
+}

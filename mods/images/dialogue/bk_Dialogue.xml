@@ -1,6 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bk_Dialogue.png">
-	<!-- Created with Adobe Animate version 19.1.0.349 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="bk_misc_Talk0000" x="5" y="5" width="163" height="296"/>
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bk_dialogue.png">
+<SubTexture name="bk_dialogue def0000" x="203" y="633" width="160" height="304" frameX="-35" frameY="-20" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue talk-LOOP0000" x="171" y="0" width="176" height="311" frameX="-31" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue talk-LOOP0001" x="347" y="0" width="161" height="309" frameX="-33" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue exsite-LOOP0000" x="508" y="0" width="162" height="309" frameX="-33" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue exsite-LOOP0001" x="0" y="324" width="162" height="309" frameX="-33" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue shock-LOOP0000" x="162" y="324" width="205" height="309" frameX="0" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue shock-LOOP0001" x="367" y="324" width="197" height="309" frameX="-7" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue conf-LOOP0000" x="670" y="0" width="195" height="309" frameX="-9" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue conf-LOOP0001" x="670" y="309" width="195" height="309" frameX="-9" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue think-LOOP0000" x="865" y="0" width="191" height="309" frameX="-13" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue think-LOOP0001" x="865" y="309" width="191" height="309" frameX="-13" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue anger0000" x="0" y="0" width="171" height="324" frameX="-33" frameY="0" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue pibby0000" x="0" y="633" width="203" height="309" frameX="-1" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue talk0000" x="171" y="0" width="176" height="311" frameX="-31" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue exsited0000" x="508" y="0" width="162" height="309" frameX="-33" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue shock0000" x="162" y="324" width="205" height="309" frameX="0" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue conf0000" x="670" y="0" width="195" height="309" frameX="-9" frameY="-15" frameWidth="207" frameHeight="326" />
+<SubTexture name="bk_dialogue think0000" x="865" y="0" width="191" height="309" frameX="-13" frameY="-15" frameWidth="207" frameHeight="326" />
 </TextureAtlas>

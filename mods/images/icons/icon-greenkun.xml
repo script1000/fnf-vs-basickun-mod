@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="icon-basickun.png">
+<TextureAtlas imagePath="icon-greenkun.png">
 	<!-- Created with Adobe Animate version 19.1.0.349 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="died" x="30" y="30" width="240" height="82"/>
+	<SubTexture name="icon-green0000" x="20" y="20" width="259" height="97"/>
 </TextureAtlas>

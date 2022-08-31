@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "WHO ARE YOU",
+			"boxState": "normal",
+			"sound": "bk_dialogue",
+			"speed": 0.02,
+			"portrait": "basickun"
+		},
+		{
+			"expression": "pissed",
+			"text": "beep pepa pig bug pip python bap bop bebepe\\nbopo babibubebo JAPAN bap beeeeeeee bee.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "what he talking about :<p",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "bk"
+		},
+		{
+			"expression": "demon",
+			"text": "he speaks beep language bruh",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "coolswag? that is sanple text ya swaggy",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "basickun"
+		},
+		{
+			"expression": "shocked",
+			"text": ".-- ... .- - - ... . ..-. ---... ---... -.- -.. .. ... --. ..- ... -.. -. --. --. ..- -.--",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "i know he want to battle to meh :I",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "basickun"
+		},
+		{
+			"expression": "excited",
+			"text": "beep :D",
+			"boxState": "normal",
+			"sound": "bk_dialogue",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "bk_misc_Talk",
+	"position": [
+		-79,
+		-53
+	],
+	"scale": 1.15,
+	"image": "bk_Dialogue",
+	"flipX": false
+}

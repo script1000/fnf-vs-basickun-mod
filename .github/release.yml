@@ -1,0 +1,25 @@
+
+
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - octocat
+  categories:
+    - title: Engine Changes 🔨
+      labels:
+        - Semver-Major
+        - breaking-change
+        - engine-change
+    - title: Features Update
+      labels: 
+        - Semver-Minor
+        - enhancement
+        - features-update
+        - week-update
+    - title: Other Changes
+      labels: 
+        - bug-fix
+        - anim-change
+        - documentation

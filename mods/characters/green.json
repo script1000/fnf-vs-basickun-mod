@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gp_action_Left"
+		},
+		{
+			"offsets": [
+				0,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gp_action_Down"
+		},
+		{
+			"offsets": [
+				-18,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gp_action_Up"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gp_action_Right"
+		},
+		{
+			"offsets": [
+				18,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "gp_action_Miss"
+		},
+		{
+			"offsets": [
+				19,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "gp_action_Miss"
+		},
+		{
+			"offsets": [
+				19,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "gp_action_Miss"
+		},
+		{
+			"offsets": [
+				18,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "gp_action_Miss"
+		},
+		{
+			"offsets": [
+				1,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "gp_action_Dodge"
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gp_action_Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "gp_emote_Scared"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				25
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "gp_action_Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				125
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "gp_action_Pre-attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				27
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "gp_action_Attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "gp_emote_Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/green-playable",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "greenkun",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		189,
+		0
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 2.5,
+	"scale": 1
+}
