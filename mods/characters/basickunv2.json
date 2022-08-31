@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				103,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "bk_action_Idle"
+		},
+		{
+			"offsets": [
+				186,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "bk_action_Left"
+		},
+		{
+			"offsets": [
+				85,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "bk_action_Right"
+		},
+		{
+			"offsets": [
+				148,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "bk_action_Up"
+		},
+		{
+			"offsets": [
+				104,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "bk_action_Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/basic-kun-v2",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "basickun",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		-300,
+		-70
+	],
+	"sing_duration": 1,
+	"scale": 0.9
+}

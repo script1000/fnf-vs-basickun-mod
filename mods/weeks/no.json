@@ -1,0 +1,32 @@
+{
+	"storyName": "fun fact: he's gone lol",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dialogue",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"encounter",
+			"basickun",
+			[
+				166,
+				153,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "encounter",
+	"hiddenUntilUnlocked": false
+}

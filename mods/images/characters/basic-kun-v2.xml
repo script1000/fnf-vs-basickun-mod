@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="basic-kun-v2.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bk_action_Down0000" x="5" y="5" width="352" height="327" frameX="0" frameY="0" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0001" x="362" y="5" width="362" height="314" frameX="-31" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0002" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0003" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0004" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0005" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0006" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0007" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0008" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0009" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0010" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0011" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0012" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Down0013" x="729" y="5" width="363" height="317" frameX="-25" frameY="-2" frameWidth="393" frameHeight="327"/>
+	<SubTexture name="bk_action_Idle0000" x="1097" y="5" width="226" height="328" frameX="0" frameY="-46" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0001" x="1328" y="5" width="240" height="352" frameX="-2" frameY="-25" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0002" x="1573" y="5" width="247" height="370" frameX="-4" frameY="-11" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0003" x="5" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0004" x="261" y="380" width="254" height="382" frameX="-6" frameY="-1" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0005" x="520" y="380" width="254" height="384" frameX="-6" frameY="0" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0006" x="779" y="380" width="253" height="381" frameX="-6" frameY="-2" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0007" x="1037" y="380" width="252" height="380" frameX="-6" frameY="-3" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0008" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0009" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0010" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0011" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0012" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Idle0013" x="1294" y="380" width="251" height="379" frameX="-6" frameY="-4" frameWidth="260" frameHeight="384"/>
+	<SubTexture name="bk_action_Left0000" x="1550" y="380" width="254" height="336" frameX="-19" frameY="-40" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0001" x="5" y="769" width="326" height="342" frameX="0" frameY="-13" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0002" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0003" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0004" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0005" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0006" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0007" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0008" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0009" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0010" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0011" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0012" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Left0013" x="336" y="769" width="316" height="356" frameX="-6" frameY="0" frameWidth="326" frameHeight="376"/>
+	<SubTexture name="bk_action_Right0000" x="657" y="769" width="329" height="309" frameX="-99" frameY="-66" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0001" x="991" y="769" width="302" height="380" frameX="0" frameY="0" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0002" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0003" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0004" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0005" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0006" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0007" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0008" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0009" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0010" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0011" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0012" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Right0013" x="1298" y="769" width="300" height="376" frameX="-11" frameY="-4" frameWidth="428" frameHeight="380"/>
+	<SubTexture name="bk_action_Up0000" x="1603" y="769" width="302" height="349" frameX="-42" frameY="-1" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0001" x="5" y="1154" width="315" height="342" frameX="0" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0002" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0003" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0004" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0005" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0006" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0007" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0008" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0009" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0010" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0011" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0012" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_action_Up0013" x="325" y="1154" width="315" height="343" frameX="-3" frameY="0" frameWidth="344" frameHeight="350"/>
+	<SubTexture name="bk_assets_head0000" x="645" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0001" x="771" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0002" x="897" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0003" x="1023" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0004" x="1149" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0005" x="1275" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0006" x="1401" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0007" x="1527" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0008" x="1653" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0009" x="1779" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0010" x="1905" y="1154" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0011" x="5" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0012" x="131" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0013" x="257" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0014" x="257" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0015" x="383" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0016" x="383" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_assets_head0017" x="509" y="1502" width="121" height="116"/>
+	<SubTexture name="bk_misc_Dialogue0000" x="635" y="1502" width="234" height="379" frameX="0" frameY="0" frameWidth="243" frameHeight="379"/>
+	<SubTexture name="bk_misc_Dialogue0001" x="874" y="1502" width="225" height="376" frameX="-18" frameY="-3" frameWidth="243" frameHeight="379"/>
+	<SubTexture name="bk_misc_Dialogue0002" x="635" y="1502" width="234" height="379" frameX="0" frameY="0" frameWidth="243" frameHeight="379"/>
+	<SubTexture name="bk_misc_Dialogue0003" x="1104" y="1502" width="225" height="376" frameX="-18" frameY="-3" frameWidth="243" frameHeight="379"/>
+	<SubTexture name="bk_misc_Talk0000" x="1334" y="1502" width="163" height="296"/>
+	<SubTexture name="bk_static_Idle0000" x="1502" y="1502" width="234" height="379"/>
+</TextureAtlas>

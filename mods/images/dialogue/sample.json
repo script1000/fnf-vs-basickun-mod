@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "script help me please now help"
+		}
+	]
+}
